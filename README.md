@@ -1,5 +1,6 @@
 # 🖥️ Raspberry Pi IT Lab  
 
+![Raspberry Pi Lab](assets/raspberry_lab.png)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 
 Un lab open source basé sur **Raspberry Pi** pour explorer les domaines :  
@@ -14,6 +15,7 @@ Un lab open source basé sur **Raspberry Pi** pour explorer les domaines :
 - `docs/` → documentation et tutoriels pratiques  
 - `scripts/` → scripts Bash, Python, PowerShell pour automatiser le lab  
 - `images/` → schémas réseau, architecture et captures  
+- `assets/` → visuels intégrés au README  
 
 ## 🚀 Premiers tutoriels  
 
@@ -24,9 +26,8 @@ Un lab open source basé sur **Raspberry Pi** pour explorer les domaines :
 
 ## 📜 Exemple d’utilisation  
 
-```bash
 # Lancer un script de monitoring
-bash scripts/monitoring/cpu_temp.sh
+bash scripts/bash/cpu_temp.sh
 
 # Démarrer un serveur web avec Docker
 docker run -d -p 80:80 nginx

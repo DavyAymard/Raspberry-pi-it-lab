@@ -1,0 +1,4 @@
+psutil        # Monitoring CPU, RAM, disque
+requests      # Requêtes HTTP (API, IoT, etc.)
+RPi.GPIO      # Contrôle des broches GPIO du Raspberry Pi
+paramiko      # SSH automation
