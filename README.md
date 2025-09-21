@@ -1,6 +1,6 @@
 u# 🖥️ Raspberry Pi IT Lab  
 
-![Raspberry Pi Lab](assets/raspberry_lab.png)  
+![Raspberry Pi Lab](assets/raspberry_lab.PNG)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
 
 Un lab open source basé sur **Raspberry Pi** pour explorer les domaines :  
