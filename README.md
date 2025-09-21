@@ -1,4 +1,4 @@
-# 🖥️ Raspberry Pi IT Lab  
+u# 🖥️ Raspberry Pi IT Lab  
 
 ![Raspberry Pi Lab](assets/raspberry_lab.png)  
 ![License](https://img.shields.io/badge/License-MIT-green.svg)  
